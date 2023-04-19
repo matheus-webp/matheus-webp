@@ -39,4 +39,4 @@ Backend developer and Software Analysis and Development student. I'm a highly mo
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/matheus-melo-22409625b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-melo-22409625b/)
