@@ -6,7 +6,7 @@ Feel free to see a little about me
 
 ## About Me
 
-Backend developer and Software Analysis and Development student. I'm a highly motivated and hardworking developer with a strong passion for learning new technologies and improving my programming skills. I am always willing to invest time and effort to master new concepts and techniques.
+Backend developer and Software Analysis and Development student. I'm a highly motivated and hardworking developer with a strong passion for learning new technologies and improving my programming skills. I'm always willing to invest time and effort to master new concepts and techniques.
 
 ---
 
