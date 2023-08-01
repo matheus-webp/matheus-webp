@@ -20,6 +20,7 @@ Backend developer and Software Analysis and Development student. I'm a highly mo
 ## Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=for-the-badge&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/nestjs-303030?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-303030?style=for-the-badge&logo=express)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-303030?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 
