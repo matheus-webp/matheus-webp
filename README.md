@@ -1,23 +1,22 @@
-## Welcome to my profile!
+## Bem-vindo ao meu perfil
 
-Feel free to see a little about me
+Sinta-se à vontade para ver um pouco sobre mim
 
 ---
 
 ## About Me
 
-Backend developer and Software Analysis and Development student. I'm a highly motivated and hardworking developer with a strong passion for learning new technologies and improving my programming skills. I'm always willing to invest time and effort to master new concepts and techniques.
+Olá! Sou um Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Software.
+Sou movido pela curiosidade e pela vontade de alcançar excelência. Estou animado para contribuir, colaborar e crescer neste ecossistema dinâmico e em constante evolução da tecnologia.
 
----
-
-## Languages
+## Linguagens
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=for-the-badge&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-303030?style=for-the-badge&logo=Typescript)&nbsp;
 
 ---
 
-## Technologies
+## Tecnologias
 
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=for-the-badge&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/nestjs-303030?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
@@ -27,7 +26,7 @@ Backend developer and Software Analysis and Development student. I'm a highly mo
 
 ---
 
-## Tools
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-303030?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-303030?style=for-the-badge&logo=github)&nbsp;
