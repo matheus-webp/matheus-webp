@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil
 
-Sinta-se à vontade para ver um pouco sobre mim
+Sinta-se à vontade para ver um pouco sobre mim.
 
 ---
 
@@ -37,6 +37,6 @@ Sou movido pela curiosidade e pela vontade de alcançar excelência. Estou anima
 
 ---
 
-## Contact
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-melo-22409625b/)
