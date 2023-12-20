@@ -6,7 +6,7 @@ Sinta-se à vontade para ver um pouco sobre mim.
 
 ## Sobre mim
 
-Olá! Sou um Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Software.
+Olá! Sou um Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas.
 Sou movido pela curiosidade e pela vontade de alcançar excelência. Estou animado para contribuir, colaborar e crescer neste ecossistema dinâmico e em constante evolução da tecnologia.
 
 ## Linguagens
