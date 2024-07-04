@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=EEEEEE&random=false&width=435&lines=Hi%2C+I'm+Matheus+(AKA+Teteu);Sys+analysis+and+development+student;Backend+Developer;Open-source+enthusiast)](https://git.io/typing-svg)
+## About me
 
-
+### Hi, my name is Matheus. I'm a computer science student studying to become a backend developer, and I actively contribute to open-source projects.
+#### My primary stack is Javascript/Typescript with Node.js, and I'm currently studying Go and Java to expand my skills.
 
 ## Languages
 
@@ -34,4 +35,4 @@
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.webp@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-melo-22409625b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-webp)
